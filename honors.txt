@@ -1,0 +1,25 @@
+
+Name: Paul Reiman
+Age: 41
+Gpa: 4.0
+
+
+Name: Laurie Rosemberg
+Age: 45
+Gpa: 4.0
+
+
+Name: Michelle Ritter 
+Age: 25
+Gpa: 4.0
+
+
+Name: Laura Collins
+Age: 30
+Gpa: 3.999
+
+
+Name: Susan Craft
+Age: 29
+Gpa: 3.754
+

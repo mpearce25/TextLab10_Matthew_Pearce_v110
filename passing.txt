@@ -1,0 +1,140 @@
+
+Name: Bart Reagor
+Age: 27
+Gpa: 2.075
+
+
+Name: Kristyn Reckner
+Age: 19
+Gpa: 3.225
+
+
+Name: Paul Reiman
+Age: 41
+Gpa: 4.0
+
+
+Name: Andy Reitinger
+Age: 20
+Gpa: 3.525
+
+
+Name: William Reynolds
+Age: 50
+Gpa: 3.375
+
+
+Name: William Robbins
+Age: 34
+Gpa: 2.875
+
+
+Name: Brian Roberts
+Age: 23
+Gpa: 3.175
+
+
+Name: Lauri Robertson
+Age: 19
+Gpa: 2.925
+
+
+Name: Richardson Robinson
+Age: 26
+Gpa: 3.21
+
+
+Name: Laurie Rosemberg
+Age: 45
+Gpa: 4.0
+
+
+Name: Barbara Salsa
+Age: 18
+Gpa: 3.0
+
+
+Name: Lori Salbury
+Age: 23
+Gpa: 3.455
+
+
+Name: Diane Simcox
+Age: 32
+Gpa: 2.175
+
+
+Name: Kevin Sims
+Age: 67
+Gpa: 3.235
+
+
+Name: Michael Ward
+Age: 19
+Gpa: 3.451
+
+
+Name: Cheryl willis
+Age: 37
+Gpa: 3.576
+
+
+Name: Tracy Springer
+Age: 41
+Gpa: 2.305
+
+
+Name: Nancy Barone
+Age: 25
+Gpa: 2.975
+
+
+Name: Patti Skinner
+Age: 47
+Gpa: 2.743
+
+
+Name: Diana Rockel
+Age: 56
+Gpa: 3.456
+
+
+Name: Michelle Ritter 
+Age: 25
+Gpa: 4.0
+
+
+Name: Mali Cozart
+Age: 16
+Gpa: 2.345
+
+
+Name: Todd Deans
+Age: 22
+Gpa: 2.023
+
+
+Name: Laura Collins
+Age: 30
+Gpa: 3.999
+
+
+Name: Debbie Mozart
+Age: 40
+Gpa: 2.999
+
+
+Name: Gordon Collins
+Age: 25
+Gpa: 3.1
+
+
+Name: Susan Craft
+Age: 29
+Gpa: 3.754
+
+
+Name: Vance Brawner
+Age: 31
+Gpa: 3.678
+
